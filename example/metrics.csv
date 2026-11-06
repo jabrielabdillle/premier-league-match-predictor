@@ -1,0 +1,3 @@
+model,accuracy,log_loss
+class_prior,0.407895,1.086042
+logistic_regression,0.478947,1.044862
